@@ -6,9 +6,10 @@
 [![Website](https://img.shields.io/badge/Website-00AEEF?style=for-the-badge&logo=web&logoColor=white)](https://felipeliandro.com.br)
 
 ---
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/92a2a2d8-c273-4f84-a492-446eff706509" />
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/9a6b9d8e-e80c-4053-baf9-d80e06bee7d0" />
+<img width="1600" height="1060" alt="image" src="https://github.com/user-attachments/assets/d634d560-588c-4388-96d3-6f591751d52e" />
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/e14461ac-c94d-4382-8062-4e3f90d9fa12" />
+<img width="2560" height="1981" alt="image" src="https://github.com/user-attachments/assets/16d306f5-9ba6-4c06-8ec9-d1ba18474ddd" />
+
 ---
 
 ## ⚙️ Sobre o Projeto
